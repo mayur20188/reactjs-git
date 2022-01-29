@@ -13,7 +13,7 @@ function App() {
     // </div>
     <div id="main-wrapper">
         <Routes/>
-        <SimpleForm/>
+        {/* <SimpleForm/> */}
     </div>
   );
 }

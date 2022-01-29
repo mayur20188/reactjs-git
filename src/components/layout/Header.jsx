@@ -11,6 +11,7 @@ const Header = () => {
                         <ul className="d-flex">
                             <li><Link exact="true" to="/reactjs-git/">Home</Link></li>
                             <li><Link to="/reactjs-git/about-us">About Us</Link></li>
+                            <li><Link to="/reactjs-git/google-map">google map</Link></li>
                         </ul>
                     </div>
                 </Container>
